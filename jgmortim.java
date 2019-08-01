@@ -6,8 +6,8 @@
  * MA3203 (Spring 2018)
  * Professor Tim Wagner
  * 
- * 	Created: Mar. 02, 2018
- * 	Modified: Mar. 06, 2018
+ * Created: Mar. 02, 2018
+ * Modified: Mar. 06, 2018
  * 
  * Performs a simplified version of the DES algorithm. The word process as
  * used in this program, refers to encryption and/or decryption.
